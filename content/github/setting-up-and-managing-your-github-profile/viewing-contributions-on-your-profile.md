@@ -96,3 +96,4 @@ If your site administrator has enabled {% data variables.product.prodname_unifie
 - "[Why are my contributions not showing up on my profile?](/articles/why-are-my-contributions-not-showing-up-on-my-profile)"
 - "[Publicizing or hiding your private contributions on your profile](/articles/publicizing-or-hiding-your-private-contributions-on-your-profile)"
 - "[Showing an overview of your activity on your profile](/articles/showing-an-overview-of-your-activity-on-your-profile)"
+https://github.com/DurianStallSingapore/Zilliqa-Mining-Proxy/issues/27#issuecomment-552170306
